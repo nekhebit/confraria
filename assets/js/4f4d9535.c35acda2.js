@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfra_saurus=self.webpackChunkfra_saurus||[]).push([[9183],{9602:a=>{a.exports=JSON.parse('{"title":"Campanhas","description":"Campanhas","slug":"/category/campanhas","permalink":"/confraria/category/campanhas","navigation":{"next":{"title":"Infos","permalink":"/confraria/campanhas/"}}}')}}]);

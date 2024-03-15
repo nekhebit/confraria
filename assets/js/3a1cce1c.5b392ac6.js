@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfra_saurus=self.webpackChunkfra_saurus||[]).push([[6995],{7986:a=>{a.exports=JSON.parse('{"permalink":"/confraria/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
