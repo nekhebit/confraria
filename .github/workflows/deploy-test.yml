@@ -5,6 +5,7 @@ name: Test Deployment GitHub Pages
 on:
   push:
     branches:
+      - '**'
       - '!main'
     paths:
       - '.github/workflows/deploy-test.yml'
