@@ -46,7 +46,7 @@ const config: Config = {
           /* other docs plugin options */
           sidebarPath: './sidebars.ts',
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
-            return `https://github.com/nekhebit/confraria/edit/dev/website/${versionDocsDirPath}/${docPath}`;
+            return `https://github.com/nekhebit/confraria/edit/main/website/${versionDocsDirPath}/${docPath}`;
           },
           
 
