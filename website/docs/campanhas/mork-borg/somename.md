@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# The Summit
+# Some name
 
 the Summit is a scenario about isolation, and the horrors humans will perpetrate when given a little
 push over the edge of sanity. 
