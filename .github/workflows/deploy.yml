@@ -3,6 +3,11 @@
 name: GitHub Pages
 
 on:
+  workflow_run:
+    workflows: ["Test - GitHub Pages"]
+    branches: [feat-dsaurus-skeleton]
+    types: 
+      - completed
   push:
     branches:
       - feat-dsaurus-skeleton
