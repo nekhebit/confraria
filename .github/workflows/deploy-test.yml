@@ -4,10 +4,8 @@ name: Test Deployment GitHub Pages
 
 on:
   pull_request:
-    branches:
-      - main
     paths:
-      - '.github/workflows/deploy.yml'
+      - '.github/workflows/deploy-test.yml'
       - 'website/**'
   
 
