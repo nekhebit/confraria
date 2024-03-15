@@ -1,13 +1,13 @@
 # .github/workflows/deploy.yml
 
-name: Test - GitHub Pages
+name: test-deployment
 
 on:
   push:
     branches:
       - feat-dsaurus-skeleton
     paths:
-      - '.github/workflows/deploy.yml'
+      - '.github/workflows/test-deployment.yml'
       - 'website/**'
   pull_request:
 
