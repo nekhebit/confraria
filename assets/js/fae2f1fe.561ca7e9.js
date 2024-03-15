@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfra_saurus=self.webpackChunkfra_saurus||[]).push([[2709],{9234:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/confraria/blog/tags/docusaurus","allTagsPath":"/confraria/blog/tags","count":4,"unlisted":false}')}}]);

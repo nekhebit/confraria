@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfra_saurus=self.webpackChunkfra_saurus||[]).push([[8651],{8409:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/confraria/blog/tags/hello","allTagsPath":"/confraria/blog/tags","count":2,"unlisted":false}')}}]);
