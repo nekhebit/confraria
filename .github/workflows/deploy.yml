@@ -1,7 +1,7 @@
 # .github/workflows/deploy.yml
 
 name: Deploy GitHub Pages
-run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor }}
+run-name: "GHPages deploy: ${{ contains(github.head_ref, 'feature/') && 'Feature' || contains(github.head_ref, 'bugfix/') && 'Bugfix' || 'Update' }}: ${{ github.head_ref }} by @${{ github.actor }}"
 
 
 on:
