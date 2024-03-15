@@ -3,12 +3,16 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - feat-dsaurus-skeleton
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 permissions:
   contents: write
+
+defaults:
+  run:
+    working-directory: ./website
 
 jobs:
   deploy:
