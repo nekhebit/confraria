@@ -14,6 +14,9 @@ defaults:
 
 jobs:
   test-deploy:
+    defaults:
+      run:
+        working-directory: ./website
     name: Test deployment
     runs-on: ubuntu-latest
     steps:
