@@ -3,11 +3,6 @@
 name: Deploy GitHub Pages
 
 on:
-  workflow_run:
-    workflows: ["test-deployment"]
-    branches: [feat-dsaurus-skeleton]
-    types: 
-      - completed
   push:
     branches:
       - feat-dsaurus-skeleton
